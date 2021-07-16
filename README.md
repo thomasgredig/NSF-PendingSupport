@@ -1,6 +1,6 @@
 # NSF-PendingSupport
 
-Extract and tabulize NSF current and pending support
+R script to search all full NSF proposals in PDF format (pattern: "NSF.*.pdf") in a folder, then extract and tabulize NSF current and pending support into a CSV file for easy viewing.
 
 ## Installation
 
